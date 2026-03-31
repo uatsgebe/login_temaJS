@@ -1,0 +1,25 @@
+body { 
+    text-align: center;
+    background-color:antiquewhite;
+}
+
+.imagemLogo {
+    border-radius: 25%;
+}
+
+.botao { 
+    height: 40px;
+    width: 100px;
+    background-color: yellow;
+    border: 0;
+    font-size: 15px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+input {
+    text-align: center;
+}
+
